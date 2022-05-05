@@ -1,0 +1,6 @@
+# Разработано whymakud.github.io
+# Указываете команду, и сервер на который перенести игрока.
+# /makudconnections reload | makudconnections.reload
+sendmetogrief: 'grief'
+hub: 'HubServer1'
+lobby: 'LobbyServer1'
